@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26124.0
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{4C6888E3-2804-4617-9497-5AE9C6DCF494}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XLogger.AspNetCore", "src\XLogger.AspNetCore\XLogger.AspNetCore.csproj", "{E6CDAC1F-362A-4825-ADF3-29D4917325E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6CDAC1F-362A-4825-ADF3-29D4917325E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6CDAC1F-362A-4825-ADF3-29D4917325E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6CDAC1F-362A-4825-ADF3-29D4917325E5}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E6CDAC1F-362A-4825-ADF3-29D4917325E5}.Debug|x64.Build.0 = Debug|Any CPU
+		{E6CDAC1F-362A-4825-ADF3-29D4917325E5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E6CDAC1F-362A-4825-ADF3-29D4917325E5}.Debug|x86.Build.0 = Debug|Any CPU
+		{E6CDAC1F-362A-4825-ADF3-29D4917325E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6CDAC1F-362A-4825-ADF3-29D4917325E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6CDAC1F-362A-4825-ADF3-29D4917325E5}.Release|x64.ActiveCfg = Release|Any CPU
+		{E6CDAC1F-362A-4825-ADF3-29D4917325E5}.Release|x64.Build.0 = Release|Any CPU
+		{E6CDAC1F-362A-4825-ADF3-29D4917325E5}.Release|x86.ActiveCfg = Release|Any CPU
+		{E6CDAC1F-362A-4825-ADF3-29D4917325E5}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E6CDAC1F-362A-4825-ADF3-29D4917325E5} = {4C6888E3-2804-4617-9497-5AE9C6DCF494}
+	EndGlobalSection
+EndGlobal
