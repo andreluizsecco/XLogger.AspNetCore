@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\..\XLogger\src\XLogger\XLogger.csproj" />
+    <ProjectReference Include="..\..\..\XLogger.Microsoft.Extensions.DependencyInjection\src\XLogger.Microsoft.Extensions.DependencyInjection\XLogger.Microsoft.Extensions.DependencyInjection.csproj" />
   </ItemGroup>
 
 </Project>
