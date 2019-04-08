@@ -1,8 +1,7 @@
 using System;
-using XLogger;
-using Microsoft.Extensions.DependencyInjection;
+using Microsoft.AspNetCore.Hosting;
 
-namespace Microsoft.AspNetCore.Hosting
+namespace XLogger
 {
     public static class WebHostBuilderExtensions
     {
