@@ -1,10 +1,24 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>XLogger.AspNetCore</PackageId>
+    <Version>1.0.0-preview</Version>
+    <Authors>André Secco</Authors>
+    <Owners>andreluizsecco</Owners>
+    <Product>XLogger.AspNetCore</Product>
+    <Description>Xlogger integration for ASP.NET Core</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/andreluizsecco/XLogger.AspNetCore</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/andreluizsecco/XLogger.AspNetCore</RepositoryUrl>
+    <PackageIconUrl>https://github.com/andreluizsecco/XLogger.AspNetCore/raw/master/logo.png</PackageIconUrl>
+    <PackageTags>XLogger Logger Logging Log Extension AspNetCore dotnet .NET</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="XLogger" Version="1.0.0-preview" />
+    <PackageReference Include="XLogger.Microsoft.Extensions.DependencyInjection" Version="1.0.2-preview" />
     <PackageReference Include="Microsoft.AspNetCore.Hosting" Version="2.2.0" />
   </ItemGroup>
 
