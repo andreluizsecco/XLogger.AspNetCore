@@ -17,13 +17,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="XLogger" Version="1.0.0-preview" />
     <PackageReference Include="XLogger.Microsoft.Extensions.DependencyInjection" Version="1.0.2-preview" />
     <PackageReference Include="Microsoft.AspNetCore.Hosting" Version="2.2.0" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\XLogger\src\XLogger\XLogger.csproj" />
     <ProjectReference Include="..\..\..\XLogger.Microsoft.Extensions.DependencyInjection\src\XLogger.Microsoft.Extensions.DependencyInjection\XLogger.Microsoft.Extensions.DependencyInjection.csproj" />
   </ItemGroup>
 
