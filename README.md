@@ -1,4 +1,5 @@
-# XLogger.AspNetCore
+![](https://raw.githubusercontent.com/andreluizsecco/XLogger.AspNetCore/dev/logo_horizontal.png)
+
 XLogger integration for ASP.NET Core
 
 [![License](https://img.shields.io/github/license/andreluizsecco/XLogger.AspNetCore.svg)](LICENSE)
