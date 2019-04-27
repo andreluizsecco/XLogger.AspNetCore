@@ -1,5 +1,5 @@
 # XLogger.AspNetCore
-Xlogger integration for ASP.NET Core
+XLogger integration for ASP.NET Core
 
 [![License](https://img.shields.io/github/license/andreluizsecco/XLogger.AspNetCore.svg)](LICENSE)
 [![Issues open](https://img.shields.io/github/issues/andreluizsecco/XLogger.AspNetCore.svg)](https://github.com/andreluizsecco/XLogger.AspNetCore/issues)
