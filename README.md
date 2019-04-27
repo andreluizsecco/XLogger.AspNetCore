@@ -37,4 +37,4 @@ Check the complete roadmap: [https://github.com/andreluizsecco/XLogger.AspNetCor
 
 ## Author
 
-The Cognitive-LUIS-Programmatic was developed by [André Secco](http://andresecco.com.br) under the [MIT license](LICENSE).
+The XLogger.AspNetCore was developed by [André Secco](http://andresecco.com.br) under the [MIT license](LICENSE).
