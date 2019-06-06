@@ -28,9 +28,9 @@ Install-Package XLogger.AspNetCore
 ```
 dotnet add package XLogger.AspNetCore
 ```
-## How to Use
+## Documentation
 
-Check the our Wiki: [https://github.com/andreluizsecco/XLogger.AspNetCore/wiki/get-started](https://github.com/andreluizsecco/XLogger.AspNetCore/wiki/get-started)
+Check the our Wiki: [https://github.com/andreluizsecco/XLogger.AspNetCore/wiki](https://github.com/andreluizsecco/XLogger.AspNetCore/wiki)
 
 ## Roadmap
 
